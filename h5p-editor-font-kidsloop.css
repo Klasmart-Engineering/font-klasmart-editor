@@ -13,7 +13,8 @@
 
 .h5peditor button,
 .h5peditor input,
-.h5peditor select {
+.h5peditor select,
+.h5peditor textarea {
   font-family: inherit;
 }
 
@@ -27,4 +28,8 @@
 
 .h5peditor .h5peditor-button-textual {
   font-family: inherit;
+}
+
+.h5peditor .h5p-editor-flex-wrapper {
+  height: 1.5em;
 }
