@@ -3,10 +3,19 @@
 }
 
 .h5peditor button,
-.h5peditor input {
+.h5peditor input,
+.h5peditor select {
+  font-family: inherit;
+}
+
+.h5peditor>select, .h5peditor .h5peditor-language-switcher select, .h5peditor h5peditor-select, .h5peditor .field>select {
   font-family: inherit;
 }
 
 .h5peditor .h5p-editor-flex-wrapper {
   height: 1.75em;
+}
+
+.h5peditor .h5peditor-button-textual {
+  font-family: inherit;
 }
