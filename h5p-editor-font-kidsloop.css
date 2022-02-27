@@ -6,6 +6,11 @@
   font-family: 'Roboto', sans-serif;
 }
 
+.h5p-editing-image-popup,
+.h5p-editing-image-popup button {
+  font-family: 'Roboto', sans-serif;
+}
+
 .h5peditor button,
 .h5peditor input,
 .h5peditor select {
